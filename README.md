@@ -1,5 +1,4 @@
  -OOP_Mod4_University
-Tokio - Module 4: Java _OCP / Practical exercises - University
 
 In this hands-on activity:
 *Create a class and subclass structure that represents university workers. In this structure, there must be a superclass common to all workers Personnel
